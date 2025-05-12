@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demilv" alt="demilv" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo con **Oxygen Academy!**
-
 - 📝 Podrás encontrar mi Linkedin en [https://www.linkedin.com/in/gonza-cano/](https://www.linkedin.com/in/gonza-cano/)
 
 - 📫 En caso de que quieras contactarme, mi email es **gonzalo.cano.rodriguez93@gmail.com**
